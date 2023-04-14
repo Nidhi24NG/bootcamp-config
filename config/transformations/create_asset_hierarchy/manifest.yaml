@@ -9,6 +9,7 @@ destination:
 ignoreNullFields: true
 shared: true
 action: upsert
+dataSetExternalId: src:001:sap:ds
 schedule:
     interval: 0 17 * * *
     isPaused: false
