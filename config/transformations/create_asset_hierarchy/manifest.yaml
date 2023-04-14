@@ -1,7 +1,7 @@
 ---
 # Manifest file downloaded from fusion
-externalId: tr-Asset hierarchy
-name: Asset hierarchy
+externalId: tr-create_asset_hierarchy
+name: create_asset_hierarchy
 query:
     file: transformation.sql
 destination:
